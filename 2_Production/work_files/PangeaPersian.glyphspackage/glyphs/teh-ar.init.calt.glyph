@@ -1,0 +1,223 @@
+{
+color = 4;
+glyphname = "teh-ar.init.calt";
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (129,629);
+}
+);
+layerId = "9CA0F1F1-C419-4983-8E88-5CF3F967428B";
+shapes = (
+{
+closed = 1;
+nodes = (
+(128,548,l),
+(80,591,l),
+(39,550,l),
+(87,507,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(236,548,l),
+(188,591,l),
+(147,550,l),
+(195,507,l)
+);
+},
+{
+ref = "behDotless-ar.init";
+}
+);
+width = 271;
+},
+{
+anchors = (
+{
+name = top;
+pos = (130,604);
+}
+);
+hints = (
+{
+horizontal = 1;
+options = 4;
+place = (0,148);
+stem = 0;
+type = TTStem;
+},
+{
+horizontal = 1;
+place = (527,0);
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+place = (449,78);
+stem = -1;
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 8;
+place = (527,134);
+stem = -1;
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+place = (661,26);
+stem = -1;
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 8;
+place = (687,133);
+stem = -1;
+type = TTStem;
+}
+);
+layerId = "5500A485-9BC9-4FA7-853B-8075021C5598";
+shapes = (
+{
+closed = 1;
+nodes = (
+(147,508,l),
+(84,562,l),
+(31,511,l),
+(94,456,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(252,508,l),
+(190,562,l),
+(137,511,l),
+(199,456,l)
+);
+},
+{
+ref = "behDotless-ar.init";
+}
+);
+width = 280;
+},
+{
+anchors = (
+{
+name = top;
+pos = (89,629);
+}
+);
+layerId = "CAEAD647-A533-4D72-9ACE-F5DE50C4DBD4";
+shapes = (
+{
+closed = 1;
+nodes = (
+(88,548,l),
+(40,591,l),
+(-1,550,l),
+(47,507,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(196,548,l),
+(148,591,l),
+(107,550,l),
+(155,507,l)
+);
+},
+{
+pos = (-40,0);
+ref = "behDotless-ar.init";
+}
+);
+width = 247;
+},
+{
+anchors = (
+{
+name = top;
+pos = (130,604);
+}
+);
+hints = (
+{
+horizontal = 1;
+options = 4;
+place = (0,148);
+stem = 0;
+type = TTStem;
+},
+{
+horizontal = 1;
+place = (527,0);
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+place = (449,78);
+stem = -1;
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 8;
+place = (527,134);
+stem = -1;
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+place = (661,26);
+stem = -1;
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 8;
+place = (687,133);
+stem = -1;
+type = TTStem;
+}
+);
+layerId = "474EAD97-6F36-4C8E-8A0A-83C4F7DF9055";
+shapes = (
+{
+closed = 1;
+nodes = (
+(147,508,l),
+(84,562,l),
+(31,511,l),
+(94,456,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(252,508,l),
+(190,562,l),
+(137,511,l),
+(199,456,l)
+);
+},
+{
+ref = "behDotless-ar.init";
+}
+);
+width = 286;
+}
+);
+}

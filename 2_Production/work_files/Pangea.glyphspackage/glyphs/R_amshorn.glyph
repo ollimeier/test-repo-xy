@@ -1,0 +1,80 @@
+{
+color = 5;
+export = 0;
+glyphname = Ramshorn;
+layers = (
+{
+layerId = "B8C7E0A8-A901-45D3-ACC5-431A2D9A5EA4";
+shapes = (
+{
+ref = Gammaafrican;
+}
+);
+width = 369;
+},
+{
+layerId = "D61C2D22-5E33-4C18-A495-2EE95D77173B";
+shapes = (
+{
+ref = Gammaafrican;
+}
+);
+width = 455;
+},
+{
+layerId = "F6D0BAAB-CB79-4251-8204-A370E9309EC9";
+shapes = (
+{
+ref = Gammaafrican;
+}
+);
+width = 365;
+},
+{
+layerId = "17CB6D6D-6D70-4CBA-931D-405A3CCC9370";
+shapes = (
+{
+ref = Gammaafrican;
+}
+);
+width = 453;
+},
+{
+layerId = "9CA0F1F1-C419-4983-8E88-5CF3F967428B";
+shapes = (
+{
+ref = Gammaafrican;
+}
+);
+width = 588;
+},
+{
+layerId = "5500A485-9BC9-4FA7-853B-8075021C5598";
+shapes = (
+{
+ref = Gammaafrican;
+}
+);
+width = 669;
+},
+{
+layerId = "B8B1B9F7-57AD-40F6-8824-2C22876E3A5C";
+shapes = (
+{
+ref = Gammaafrican;
+}
+);
+width = 569;
+},
+{
+layerId = "2275FDE9-41F5-43D3-856B-3453FC30E713";
+shapes = (
+{
+ref = Gammaafrican;
+}
+);
+width = 643;
+}
+);
+unicode = 42955;
+}

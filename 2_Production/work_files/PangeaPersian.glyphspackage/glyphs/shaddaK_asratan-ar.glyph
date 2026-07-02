@@ -1,0 +1,66 @@
+{
+color = 4;
+glyphname = "shaddaKasratan-ar";
+layers = (
+{
+layerId = "9CA0F1F1-C419-4983-8E88-5CF3F967428B";
+shapes = (
+{
+alignment = 1;
+ref = "fathatan-ar";
+},
+{
+anchor = top;
+pos = (-45,214);
+ref = "shadda-ar";
+}
+);
+width = 604;
+},
+{
+layerId = "5500A485-9BC9-4FA7-853B-8075021C5598";
+shapes = (
+{
+alignment = 1;
+ref = "fathatan-ar";
+},
+{
+anchor = top;
+pos = (-41,252);
+ref = "shadda-ar";
+}
+);
+width = 619;
+},
+{
+layerId = "CAEAD647-A533-4D72-9ACE-F5DE50C4DBD4";
+shapes = (
+{
+alignment = 1;
+ref = "fathatan-ar";
+},
+{
+anchor = top;
+pos = (-45,214);
+ref = "shadda-ar";
+}
+);
+width = 604;
+},
+{
+layerId = "474EAD97-6F36-4C8E-8A0A-83C4F7DF9055";
+shapes = (
+{
+alignment = 1;
+ref = "fathatan-ar";
+},
+{
+anchor = top;
+pos = (-41,252);
+ref = "shadda-ar";
+}
+);
+width = 619;
+}
+);
+}

@@ -1,0 +1,60 @@
+{
+color = 5;
+glyphname = "noon-ar";
+kernRight = "noonghunna-ar";
+layers = (
+{
+layerId = "9CA0F1F1-C419-4983-8E88-5CF3F967428B";
+shapes = (
+{
+ref = "noonghunna-ar";
+},
+{
+pos = (25,-180);
+ref = "dotabove-ar";
+}
+);
+width = 630;
+},
+{
+layerId = "5500A485-9BC9-4FA7-853B-8075021C5598";
+shapes = (
+{
+ref = "noonghunna-ar";
+},
+{
+pos = (-6,-166);
+ref = "dotabove-ar";
+}
+);
+width = 632;
+},
+{
+layerId = "CAEAD647-A533-4D72-9ACE-F5DE50C4DBD4";
+shapes = (
+{
+ref = "noonghunna-ar";
+},
+{
+pos = (39,-180);
+ref = "dotabove-ar";
+}
+);
+width = 657;
+},
+{
+layerId = "474EAD97-6F36-4C8E-8A0A-83C4F7DF9055";
+shapes = (
+{
+ref = "noonghunna-ar";
+},
+{
+pos = (2,-166);
+ref = "dotabove-ar";
+}
+);
+width = 646;
+}
+);
+unicode = (1606,65253);
+}

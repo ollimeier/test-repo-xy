@@ -1,0 +1,191 @@
+{
+color = 10;
+export = 0;
+glyphname = dotbelowcomb.case;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (100,0);
+},
+{
+name = bottom;
+pos = (100,-156);
+}
+);
+background = {
+anchors = (
+{
+name = _bottom;
+pos = (99,0);
+}
+);
+shapes = (
+{
+closed = 1;
+nodes = (
+(128,-156,o),
+(150,-134,o),
+(150,-105,cs),
+(150,-77,o),
+(128,-55,o),
+(99,-55,cs),
+(71,-55,o),
+(50,-77,o),
+(50,-105,cs),
+(50,-134,o),
+(71,-156,o),
+(99,-156,cs)
+);
+}
+);
+};
+layerId = "9CA0F1F1-C419-4983-8E88-5CF3F967428B";
+shapes = (
+{
+ref = dotbelowcomb;
+}
+);
+width = 200;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (143,0);
+},
+{
+name = bottom;
+pos = (143,-215);
+}
+);
+background = {
+anchors = (
+{
+name = _bottom;
+pos = (143,0);
+}
+);
+shapes = (
+{
+closed = 1;
+nodes = (
+(194,-215,o),
+(235,-185,o),
+(235,-131,cs),
+(235,-77,o),
+(194,-45,o),
+(143,-45,cs),
+(91,-45,o),
+(50,-77,o),
+(50,-131,cs),
+(50,-185,o),
+(91,-215,o),
+(143,-215,cs)
+);
+}
+);
+};
+layerId = "5500A485-9BC9-4FA7-853B-8075021C5598";
+shapes = (
+{
+ref = dotbelowcomb;
+}
+);
+width = 285;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (100,0);
+},
+{
+name = bottom;
+pos = (100,-156);
+}
+);
+background = {
+anchors = (
+{
+name = _bottom;
+pos = (99,0);
+}
+);
+shapes = (
+{
+closed = 1;
+nodes = (
+(128,-156,o),
+(150,-134,o),
+(150,-105,cs),
+(150,-77,o),
+(128,-55,o),
+(99,-55,cs),
+(71,-55,o),
+(50,-77,o),
+(50,-105,cs),
+(50,-134,o),
+(71,-156,o),
+(99,-156,cs)
+);
+}
+);
+};
+layerId = "CAEAD647-A533-4D72-9ACE-F5DE50C4DBD4";
+shapes = (
+{
+ref = dotbelowcomb;
+}
+);
+width = 200;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (143,0);
+},
+{
+name = bottom;
+pos = (143,-215);
+}
+);
+background = {
+anchors = (
+{
+name = _bottom;
+pos = (143,0);
+}
+);
+shapes = (
+{
+closed = 1;
+nodes = (
+(194,-215,o),
+(235,-185,o),
+(235,-131,cs),
+(235,-77,o),
+(194,-45,o),
+(143,-45,cs),
+(91,-45,o),
+(50,-77,o),
+(50,-131,cs),
+(50,-185,o),
+(91,-215,o),
+(143,-215,cs)
+);
+}
+);
+};
+layerId = "474EAD97-6F36-4C8E-8A0A-83C4F7DF9055";
+shapes = (
+{
+ref = dotbelowcomb;
+}
+);
+width = 285;
+}
+);
+}

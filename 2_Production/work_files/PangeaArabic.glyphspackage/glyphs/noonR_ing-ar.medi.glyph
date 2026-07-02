@@ -1,0 +1,210 @@
+{
+color = 9;
+glyphname = "noonRing-ar.medi";
+layers = (
+{
+associatedMasterId = "9CA0F1F1-C419-4983-8E88-5CF3F967428B";
+layerId = "9B455188-434F-489F-9A18-4C18DBE88840";
+name = Condensed;
+shapes = (
+{
+alignment = -1;
+ref = "dotlessbeh-ar.medi.wide";
+},
+{
+alignment = -1;
+pos = (-4,-107);
+ref = "ringSymbol-ar";
+},
+{
+alignment = -1;
+pos = (96,-107);
+ref = "dotabove-ar";
+}
+);
+width = 323;
+},
+{
+associatedMasterId = "9CA0F1F1-C419-4983-8E88-5CF3F967428B";
+layerId = "A7E21968-E455-4749-BB19-379F5EDC3B9B";
+name = "Bold Condensed";
+shapes = (
+{
+alignment = -1;
+ref = "dotlessbeh-ar.medi.wide";
+},
+{
+alignment = -1;
+pos = (20,-89);
+ref = "ringSymbol-ar";
+},
+{
+alignment = -1;
+pos = (124,-31);
+ref = "dotabove-ar";
+}
+);
+width = 405;
+},
+{
+associatedMasterId = "9CA0F1F1-C419-4983-8E88-5CF3F967428B";
+layerId = "D3B47D5E-6A85-4361-9DF6-638C8B7E2782";
+name = "Light Condensed";
+shapes = (
+{
+alignment = -1;
+ref = "dotlessbeh-ar.medi.wide";
+},
+{
+alignment = -1;
+pos = (-25,-116);
+ref = "ringSymbol-ar";
+},
+{
+alignment = -1;
+pos = (100,-177);
+ref = "dotabove-ar";
+}
+);
+width = 218;
+},
+{
+associatedMasterId = "9CA0F1F1-C419-4983-8E88-5CF3F967428B";
+layerId = "08F1692B-9525-48D2-9816-1987B1C44D50";
+name = "SemiBold Condensed";
+shapes = (
+{
+alignment = -1;
+ref = "dotlessbeh-ar.medi.wide";
+},
+{
+alignment = -1;
+pos = (11,-96);
+ref = "ringSymbol-ar";
+},
+{
+alignment = -1;
+pos = (103,-89);
+ref = "dotabove-ar";
+}
+);
+width = 371;
+},
+{
+layerId = "9CA0F1F1-C419-4983-8E88-5CF3F967428B";
+shapes = (
+{
+ref = "behDotless-ar.medi";
+},
+{
+alignment = 1;
+pos = (104,-662);
+ref = "ringSymbol-ar";
+},
+{
+pos = (-111,-130);
+ref = "dotabove-ar";
+}
+);
+width = 341;
+},
+{
+layerId = "5500A485-9BC9-4FA7-853B-8075021C5598";
+shapes = (
+{
+ref = "behDotless-ar.medi";
+},
+{
+alignment = 1;
+pos = (69,-706);
+ref = "ringSymbol-ar";
+},
+{
+pos = (-157,-145);
+ref = "dotabove-ar";
+}
+);
+width = 318;
+},
+{
+associatedMasterId = "9CA0F1F1-C419-4983-8E88-5CF3F967428B";
+layerId = "E1555194-BAFD-4DCC-A026-E2F9BA1917F2";
+name = SemiBold;
+shapes = (
+{
+alignment = -1;
+ref = "dotlessbeh-ar.medi.wide";
+},
+{
+alignment = -1;
+pos = (19,-102);
+ref = "ringSymbol-ar";
+},
+{
+alignment = -1;
+pos = (134,-106);
+ref = "dotabove-ar";
+}
+);
+width = 409;
+},
+{
+associatedMasterId = "9CA0F1F1-C419-4983-8E88-5CF3F967428B";
+layerId = "8594390A-478C-48BC-BAB2-0B8797A53DFB";
+name = Bold;
+shapes = (
+{
+alignment = -1;
+ref = "dotlessbeh-ar.medi.wide";
+},
+{
+alignment = -1;
+pos = (25,-100);
+ref = "ringSymbol-ar";
+},
+{
+alignment = -1;
+pos = (129,-56);
+ref = "dotabove-ar";
+}
+);
+width = 445;
+},
+{
+layerId = "CAEAD647-A533-4D72-9ACE-F5DE50C4DBD4";
+shapes = (
+{
+ref = "behDotless-ar.medi";
+},
+{
+alignment = 1;
+pos = (144,-662);
+ref = "ringSymbol-ar";
+},
+{
+pos = (-81,-110);
+ref = "dotabove-ar";
+}
+);
+width = 401;
+},
+{
+layerId = "474EAD97-6F36-4C8E-8A0A-83C4F7DF9055";
+shapes = (
+{
+ref = "behDotless-ar.medi";
+},
+{
+alignment = 1;
+pos = (99,-706);
+ref = "ringSymbol-ar";
+},
+{
+pos = (-137,-119);
+ref = "dotabove-ar";
+}
+);
+width = 358;
+}
+);
+}

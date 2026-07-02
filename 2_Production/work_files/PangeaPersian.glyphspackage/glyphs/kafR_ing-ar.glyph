@@ -1,0 +1,59 @@
+{
+color = 9;
+glyphname = "kafRing-ar";
+layers = (
+{
+layerId = "9CA0F1F1-C419-4983-8E88-5CF3F967428B";
+shapes = (
+{
+ref = "keheh-ar";
+},
+{
+pos = (507,-113);
+ref = "ringSymbol-ar";
+}
+);
+width = 801;
+},
+{
+layerId = "5500A485-9BC9-4FA7-853B-8075021C5598";
+shapes = (
+{
+ref = "keheh-ar";
+},
+{
+pos = (473,-206);
+ref = "ringSymbol-ar";
+}
+);
+width = 762;
+},
+{
+layerId = "CAEAD647-A533-4D72-9ACE-F5DE50C4DBD4";
+shapes = (
+{
+ref = "keheh-ar";
+},
+{
+pos = (507,-113);
+ref = "ringSymbol-ar";
+}
+);
+width = 754;
+},
+{
+layerId = "474EAD97-6F36-4C8E-8A0A-83C4F7DF9055";
+shapes = (
+{
+ref = "keheh-ar";
+},
+{
+pos = (481,-206);
+ref = "ringSymbol-ar";
+}
+);
+width = 749;
+}
+);
+unicode = 1707;
+}

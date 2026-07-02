@@ -1,0 +1,65 @@
+{
+color = 4;
+glyphname = "hehgoal-ar.init";
+layers = (
+{
+layerId = "9CA0F1F1-C419-4983-8E88-5CF3F967428B";
+shapes = (
+{
+ref = "behDotless-ar.init";
+},
+{
+pos = (0,-342);
+ref = "comma-ar";
+}
+);
+width = 271;
+},
+{
+layerId = "5500A485-9BC9-4FA7-853B-8075021C5598";
+shapes = (
+{
+ref = "behDotless-ar.init";
+},
+{
+pos = (4,-359);
+ref = "comma-ar";
+scale = (0.8517,0.8517);
+}
+);
+width = 270;
+},
+{
+layerId = "CAEAD647-A533-4D72-9ACE-F5DE50C4DBD4";
+shapes = (
+{
+alignment = -1;
+ref = "behDotless-ar.init";
+},
+{
+alignment = -1;
+pos = (0,-342);
+ref = "comma-ar";
+}
+);
+width = 311;
+},
+{
+layerId = "474EAD97-6F36-4C8E-8A0A-83C4F7DF9055";
+shapes = (
+{
+alignment = -1;
+ref = "behDotless-ar.init";
+},
+{
+alignment = -1;
+pos = (4,-359);
+ref = "comma-ar";
+scale = (0.8517,0.8517);
+}
+);
+width = 270;
+}
+);
+unicode = 64424;
+}

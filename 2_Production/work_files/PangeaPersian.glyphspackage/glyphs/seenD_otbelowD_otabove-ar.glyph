@@ -1,0 +1,76 @@
+{
+color = 9;
+glyphname = "seenDotbelowDotabove-ar";
+layers = (
+{
+layerId = "9CA0F1F1-C419-4983-8E88-5CF3F967428B";
+shapes = (
+{
+ref = "seen-ar";
+},
+{
+pos = (546,-160);
+ref = "dotabove-ar";
+},
+{
+pos = (460,-25);
+ref = "dotbelow-ar";
+}
+);
+width = 1167;
+},
+{
+layerId = "5500A485-9BC9-4FA7-853B-8075021C5598";
+shapes = (
+{
+ref = "seen-ar";
+},
+{
+pos = (421,-93);
+ref = "dotabove-ar";
+},
+{
+pos = (471,-20);
+ref = "dotbelow-ar";
+}
+);
+width = 1126;
+},
+{
+layerId = "CAEAD647-A533-4D72-9ACE-F5DE50C4DBD4";
+shapes = (
+{
+ref = "seen-ar";
+},
+{
+pos = (550,-160);
+ref = "dotabove-ar";
+},
+{
+pos = (477,-25);
+ref = "dotbelow-ar";
+}
+);
+width = 1181;
+},
+{
+layerId = "474EAD97-6F36-4C8E-8A0A-83C4F7DF9055";
+shapes = (
+{
+ref = "seen-ar";
+},
+{
+pos = (422,-93);
+ref = "dotabove-ar";
+},
+{
+pos = (461,-20);
+ref = "dotbelow-ar";
+}
+);
+width = 1139;
+}
+);
+note = uni069A;
+unicode = 1690;
+}

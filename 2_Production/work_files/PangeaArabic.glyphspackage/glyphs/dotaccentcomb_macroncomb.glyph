@@ -1,0 +1,357 @@
+{
+color = 10;
+export = 0;
+glyphname = dotaccentcomb_macroncomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (198,500);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(121,556,o),
+(140,574,o),
+(140,601,cs),
+(140,628,o),
+(121,646,o),
+(95,646,cs),
+(69,646,o),
+(50,628,o),
+(50,601,cs),
+(50,574,o),
+(69,556,o),
+(95,556,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(341,556,o),
+(360,574,o),
+(360,601,cs),
+(360,628,o),
+(341,646,o),
+(315,646,cs),
+(289,646,o),
+(270,628,o),
+(270,601,cs),
+(270,574,o),
+(289,556,o),
+(315,556,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(353,699,l),
+(353,758,l),
+(58,758,l),
+(58,699,l)
+);
+}
+);
+};
+layerId = "9CA0F1F1-C419-4983-8E88-5CF3F967428B";
+shapes = (
+{
+pos = (102,-66);
+ref = dotaccentcomb;
+},
+{
+alignment = -1;
+pos = (0,87);
+ref = macroncomb;
+}
+);
+width = 395;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (222,519);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(250,541,o),
+(289,572,o),
+(289,626,cs),
+(289,680,o),
+(250,711,o),
+(202,711,cs),
+(153,711,o),
+(114,680,o),
+(114,626,cs),
+(114,572,o),
+(153,541,o),
+(202,541,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(464,541,o),
+(503,572,o),
+(503,626,cs),
+(503,680,o),
+(464,711,o),
+(416,711,cs),
+(367,711,o),
+(328,680,o),
+(328,626,cs),
+(328,572,o),
+(367,541,o),
+(416,541,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(480,743,l),
+(480,861,l),
+(136,861,l),
+(136,743,l)
+);
+}
+);
+};
+hints = (
+{
+horizontal = 1;
+place = (541,0);
+stem = 2;
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+place = (541,170);
+stem = -1;
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+place = (711,0);
+type = TTShift;
+},
+{
+horizontal = 1;
+options = 4;
+place = (541,0);
+type = TTShift;
+},
+{
+horizontal = 1;
+place = (743,0);
+stem = 2;
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+place = (743,118);
+type = TTStem;
+}
+);
+layerId = "5500A485-9BC9-4FA7-853B-8075021C5598";
+shapes = (
+{
+pos = (80,-9);
+ref = dotaccentcomb;
+},
+{
+alignment = -1;
+pos = (1,154);
+ref = macroncomb;
+}
+);
+width = 444;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (198,500);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(121,556,o),
+(140,574,o),
+(140,601,cs),
+(140,628,o),
+(121,646,o),
+(95,646,cs),
+(69,646,o),
+(50,628,o),
+(50,601,cs),
+(50,574,o),
+(69,556,o),
+(95,556,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(341,556,o),
+(360,574,o),
+(360,601,cs),
+(360,628,o),
+(341,646,o),
+(315,646,cs),
+(289,646,o),
+(270,628,o),
+(270,601,cs),
+(270,574,o),
+(289,556,o),
+(315,556,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(353,699,l),
+(353,758,l),
+(58,758,l),
+(58,699,l)
+);
+}
+);
+};
+layerId = "CAEAD647-A533-4D72-9ACE-F5DE50C4DBD4";
+shapes = (
+{
+pos = (102,-66);
+ref = dotaccentcomb;
+},
+{
+alignment = -1;
+pos = (0,87);
+ref = macroncomb;
+}
+);
+width = 395;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (222,519);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(250,541,o),
+(289,572,o),
+(289,626,cs),
+(289,680,o),
+(250,711,o),
+(202,711,cs),
+(153,711,o),
+(114,680,o),
+(114,626,cs),
+(114,572,o),
+(153,541,o),
+(202,541,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(464,541,o),
+(503,572,o),
+(503,626,cs),
+(503,680,o),
+(464,711,o),
+(416,711,cs),
+(367,711,o),
+(328,680,o),
+(328,626,cs),
+(328,572,o),
+(367,541,o),
+(416,541,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(480,743,l),
+(480,861,l),
+(136,861,l),
+(136,743,l)
+);
+}
+);
+};
+hints = (
+{
+horizontal = 1;
+place = (541,0);
+stem = 2;
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+place = (541,170);
+stem = -1;
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+place = (711,0);
+type = TTShift;
+},
+{
+horizontal = 1;
+options = 4;
+place = (541,0);
+type = TTShift;
+},
+{
+horizontal = 1;
+place = (743,0);
+stem = 2;
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+place = (743,118);
+type = TTStem;
+}
+);
+layerId = "474EAD97-6F36-4C8E-8A0A-83C4F7DF9055";
+shapes = (
+{
+pos = (80,-9);
+ref = dotaccentcomb;
+},
+{
+alignment = -1;
+pos = (1,154);
+ref = macroncomb;
+}
+);
+width = 444;
+}
+);
+}

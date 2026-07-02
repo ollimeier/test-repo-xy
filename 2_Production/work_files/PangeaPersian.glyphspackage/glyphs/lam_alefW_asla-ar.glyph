@@ -1,0 +1,66 @@
+{
+color = 4;
+glyphname = "lam_alefWasla-ar";
+kernLeft = "lam_alefHamzaabove-ar";
+kernRight = "lam_alefHamzaabove-ar";
+layers = (
+{
+layerId = "9CA0F1F1-C419-4983-8E88-5CF3F967428B";
+shapes = (
+{
+ref = "lam_alef-ar";
+},
+{
+anchor = top_2;
+pos = (-153,108);
+ref = "wasla-ar";
+}
+);
+width = 543;
+},
+{
+layerId = "5500A485-9BC9-4FA7-853B-8075021C5598";
+shapes = (
+{
+ref = "lam_alef-ar";
+},
+{
+anchor = top_2;
+pos = (-176,86);
+ref = "wasla-ar";
+}
+);
+width = 525;
+},
+{
+layerId = "CAEAD647-A533-4D72-9ACE-F5DE50C4DBD4";
+shapes = (
+{
+ref = "lam_alef-ar";
+},
+{
+anchor = top_2;
+pos = (-153,108);
+ref = "wasla-ar";
+}
+);
+width = 563;
+},
+{
+layerId = "474EAD97-6F36-4C8E-8A0A-83C4F7DF9055";
+shapes = (
+{
+ref = "lam_alef-ar";
+},
+{
+anchor = top_2;
+pos = (-176,86);
+ref = "wasla-ar";
+}
+);
+width = 535;
+}
+);
+metricLeft = "lam_alef-ar.fina";
+metricRight = "alef-ar";
+}

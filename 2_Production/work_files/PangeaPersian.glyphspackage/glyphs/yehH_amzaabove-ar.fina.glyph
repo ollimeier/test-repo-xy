@@ -1,0 +1,60 @@
+{
+color = 4;
+glyphname = "yehHamzaabove-ar.fina";
+layers = (
+{
+layerId = "9CA0F1F1-C419-4983-8E88-5CF3F967428B";
+shapes = (
+{
+ref = "alefMaksura-ar.fina";
+},
+{
+pos = (-139,-178);
+ref = "hamzaabove-ar";
+}
+);
+width = 686;
+},
+{
+layerId = "5500A485-9BC9-4FA7-853B-8075021C5598";
+shapes = (
+{
+ref = "alefMaksura-ar.fina";
+},
+{
+pos = (-172,-247);
+ref = "hamzaabove-ar";
+}
+);
+width = 649;
+},
+{
+layerId = "CAEAD647-A533-4D72-9ACE-F5DE50C4DBD4";
+shapes = (
+{
+ref = "alefMaksura-ar.fina";
+},
+{
+pos = (-125,-178);
+ref = "hamzaabove-ar";
+}
+);
+width = 730;
+},
+{
+layerId = "474EAD97-6F36-4C8E-8A0A-83C4F7DF9055";
+shapes = (
+{
+ref = "alefMaksura-ar.fina";
+},
+{
+pos = (-167,-247);
+ref = "hamzaabove-ar";
+}
+);
+width = 634;
+}
+);
+metricRight = "behDotless-ar.medi";
+unicode = 65162;
+}

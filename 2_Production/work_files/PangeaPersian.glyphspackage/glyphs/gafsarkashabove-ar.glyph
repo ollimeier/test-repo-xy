@@ -1,0 +1,225 @@
+{
+color = 4;
+glyphname = "gafsarkashabove-ar";
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (308,513);
+},
+{
+name = top;
+pos = (253,596);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(440,579,l),
+(426,612,l),
+(155,490,l),
+(168,458,l)
+);
+}
+);
+};
+layerId = "9CA0F1F1-C419-4983-8E88-5CF3F967428B";
+shapes = (
+{
+closed = 1;
+nodes = (
+(461,572,l),
+(447,605,l),
+(150,473,l),
+(163,441,l)
+);
+}
+);
+width = 616;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (308,518);
+},
+{
+name = top;
+pos = (239,630);
+}
+);
+hints = (
+{
+horizontal = 1;
+origin = (0,3);
+target = (0,1);
+type = Stem;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,3);
+stem = 8;
+target = (0,2);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,2);
+target = (0,1);
+type = TTShift;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,3);
+target = (0,0);
+type = TTShift;
+}
+);
+layerId = "5500A485-9BC9-4FA7-853B-8075021C5598";
+shapes = (
+{
+closed = 1;
+nodes = (
+(427,595,l),
+(400,651,l),
+(124,525,l),
+(150,469,l)
+);
+}
+);
+width = 614;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (308,513);
+},
+{
+name = top;
+pos = (253,596);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(440,579,l),
+(426,612,l),
+(155,490,l),
+(168,458,l)
+);
+}
+);
+};
+layerId = "CAEAD647-A533-4D72-9ACE-F5DE50C4DBD4";
+shapes = (
+{
+closed = 1;
+nodes = (
+(461,572,l),
+(447,605,l),
+(150,473,l),
+(163,441,l)
+);
+}
+);
+width = 616;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (308,518);
+},
+{
+name = top;
+pos = (239,630);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(155,-70,ls),
+(291,-70,o),
+(366,8,o),
+(366,102,cs),
+(366,156,o),
+(345,210,o),
+(272,287,cs),
+(157,407,l),
+(118,323,l),
+(483,482,l),
+(427,595,l),
+(49,423,l),
+(49,329,l),
+(179,202,ls),
+(229,153,o),
+(232,134,o),
+(232,114,cs),
+(232,95,o),
+(215,78,o),
+(137,78,cs),
+(21,78,l),
+(4,68,l),
+(4,-60,l),
+(21,-70,l)
+);
+}
+);
+};
+hints = (
+{
+horizontal = 1;
+origin = (0,3);
+target = (0,1);
+type = Stem;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,3);
+stem = 8;
+target = (0,2);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,2);
+target = (0,1);
+type = TTShift;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,3);
+target = (0,0);
+type = TTShift;
+}
+);
+layerId = "474EAD97-6F36-4C8E-8A0A-83C4F7DF9055";
+shapes = (
+{
+closed = 1;
+nodes = (
+(427,595,l),
+(400,651,l),
+(124,525,l),
+(150,469,l)
+);
+}
+);
+width = 588;
+}
+);
+}

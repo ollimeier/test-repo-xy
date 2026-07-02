@@ -1,0 +1,47 @@
+{
+color = 10;
+glyphname = zerowidthspace;
+layers = (
+{
+layerId = "9CA0F1F1-C419-4983-8E88-5CF3F967428B";
+width = 0;
+},
+{
+layerId = "5500A485-9BC9-4FA7-853B-8075021C5598";
+width = 0;
+},
+{
+associatedMasterId = "9CA0F1F1-C419-4983-8E88-5CF3F967428B";
+layerId = "B8B1B9F7-57AD-40F6-8824-2C22876E3A5C";
+name = "new Layer";
+width = 0;
+},
+{
+associatedMasterId = "9CA0F1F1-C419-4983-8E88-5CF3F967428B";
+layerId = "2275FDE9-41F5-43D3-856B-3453FC30E713";
+name = "new Layer";
+width = 0;
+},
+{
+layerId = "CAEAD647-A533-4D72-9ACE-F5DE50C4DBD4";
+width = 0;
+},
+{
+associatedMasterId = "CAEAD647-A533-4D72-9ACE-F5DE50C4DBD4";
+layerId = "88BD972A-5FA1-4E30-9D4B-2AF4A8584FAA";
+name = "new Layer";
+width = 0;
+},
+{
+associatedMasterId = "CAEAD647-A533-4D72-9ACE-F5DE50C4DBD4";
+layerId = "59F31777-6F5A-4737-8C3B-3164D09C6747";
+name = "new Layer";
+width = 0;
+},
+{
+layerId = "474EAD97-6F36-4C8E-8A0A-83C4F7DF9055";
+width = 0;
+}
+);
+unicode = 8203;
+}

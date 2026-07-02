@@ -1,0 +1,379 @@
+{
+color = 6;
+glyphname = nu.text;
+layers = (
+{
+background = {
+anchors = (
+{
+name = bottom;
+pos = (245,0);
+},
+{
+name = top;
+pos = (245,500);
+}
+);
+shapes = (
+{
+closed = 1;
+nodes = (
+(409,500,l),
+(226,41,l),
+(265,41,l),
+(81,500,l),
+(11,500,l),
+(216,-1,l),
+(273,-1,l),
+(478,500,l)
+);
+}
+);
+};
+color = 8;
+layerId = "9CA0F1F1-C419-4983-8E88-5CF3F967428B";
+shapes = (
+{
+ref = v.text;
+}
+);
+width = 489;
+},
+{
+background = {
+anchors = (
+{
+name = bottom;
+pos = (272,0);
+},
+{
+name = top;
+pos = (272,519);
+}
+);
+hints = (
+{
+horizontal = 1;
+options = 4;
+origin = (0,0);
+target = (0,3);
+type = TTShift;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,5);
+target = (0,1,0,3);
+type = TTShift;
+}
+);
+shapes = (
+{
+closed = 1;
+nodes = (
+(386,519,l),
+(236,96,l),
+(310,96,l),
+(161,519,l),
+(-1,519,l),
+(202,0,l),
+(343,0,l),
+(543,519,l)
+);
+}
+);
+};
+layerId = "5500A485-9BC9-4FA7-853B-8075021C5598";
+shapes = (
+{
+ref = v.text;
+}
+);
+width = 543;
+},
+{
+background = {
+anchors = (
+{
+name = bottom;
+pos = (183,0);
+},
+{
+name = top;
+pos = (296,500);
+}
+);
+shapes = (
+{
+closed = 1;
+nodes = (
+(455,500,l),
+(171,41,l),
+(211,41,l),
+(136,500,l),
+(69,500,l),
+(155,-1,l),
+(211,-1,l),
+(527,500,l)
+);
+}
+);
+};
+layerId = "B8B1B9F7-57AD-40F6-8824-2C22876E3A5C";
+shapes = (
+{
+ref = v.text;
+}
+);
+width = 480;
+},
+{
+background = {
+anchors = (
+{
+name = bottom;
+pos = (208,0);
+},
+{
+name = top;
+pos = (324,519);
+}
+);
+shapes = (
+{
+closed = 1;
+nodes = (
+(430,519,l),
+(187,96,l),
+(262,96,l),
+(217,519,l),
+(60,519,l),
+(137,0,l),
+(278,0,l),
+(596,519,l)
+);
+}
+);
+};
+layerId = "2275FDE9-41F5-43D3-856B-3453FC30E713";
+shapes = (
+{
+ref = v.text;
+}
+);
+width = 534;
+},
+{
+background = {
+anchors = (
+{
+name = bottom;
+pos = (163,0);
+},
+{
+name = top;
+pos = (163,500);
+}
+);
+shapes = (
+{
+closed = 1;
+nodes = (
+(188,-1,l),
+(318,500,l),
+(262,500,l),
+(190,200,ls),
+(181,161,o),
+(170,119,o),
+(166,79,c),
+(162,79,l),
+(158,119,o),
+(147,161,o),
+(138,200,cs),
+(66,500,l),
+(8,500,l),
+(139,-1,l)
+);
+}
+);
+};
+layerId = "B8C7E0A8-A901-45D3-ACC5-431A2D9A5EA4";
+shapes = (
+{
+ref = v.text;
+}
+);
+width = 326;
+},
+{
+background = {
+anchors = (
+{
+name = bottom;
+pos = (153,0);
+},
+{
+name = top;
+pos = (235,519);
+}
+);
+hints = (
+{
+horizontal = 1;
+options = 4;
+origin = (0,13);
+target = (0,7);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,2);
+target = (0,11);
+type = TTShift;
+}
+);
+shapes = (
+{
+closed = 1;
+nodes = (
+(215,0,l),
+(427,519,l),
+(288,519,l),
+(230,346,ls),
+(209,284,o),
+(190,221,o),
+(177,158,c),
+(173,158,l),
+(180,221,o),
+(181,284,o),
+(180,346,cs),
+(177,519,l),
+(41,519,l),
+(92,0,l)
+);
+}
+);
+};
+layerId = "17CB6D6D-6D70-4CBA-931D-405A3CCC9370";
+shapes = (
+{
+ref = v.text;
+}
+);
+width = 386;
+},
+{
+background = {
+anchors = (
+{
+name = bottom;
+pos = (194,0);
+},
+{
+name = top;
+pos = (194,519);
+}
+);
+hints = (
+{
+horizontal = 1;
+options = 4;
+place = (0,176);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+place = (519,0);
+type = TTShift;
+}
+);
+shapes = (
+{
+closed = 1;
+nodes = (
+(256,0,l),
+(387,519,l),
+(253,519,l),
+(221,345,ls),
+(210,283,o),
+(200,220,o),
+(197,158,c),
+(193,158,l),
+(190,220,o),
+(181,283,o),
+(170,345,cs),
+(139,519,l),
+(-1,519,l),
+(133,0,l)
+);
+}
+);
+};
+layerId = "D61C2D22-5E33-4C18-A495-2EE95D77173B";
+shapes = (
+{
+ref = v.text;
+}
+);
+width = 387;
+},
+{
+background = {
+anchors = (
+{
+name = bottom;
+pos = (121,0);
+},
+{
+name = top;
+pos = (201,500);
+}
+);
+hints = (
+{
+horizontal = 1;
+options = 4;
+place = (-40,0);
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+place = (-40,0);
+type = TTShift;
+}
+);
+shapes = (
+{
+closed = 1;
+nodes = (
+(146,-1,l),
+(355,500,l),
+(296,500,l),
+(178,201,ls),
+(163,162,o),
+(145,119,o),
+(135,79,c),
+(131,79,l),
+(132,119,o),
+(130,162,o),
+(127,201,cs),
+(104,500,l),
+(47,500,l),
+(96,-1,l)
+);
+}
+);
+};
+layerId = "F6D0BAAB-CB79-4251-8204-A370E9309EC9";
+shapes = (
+{
+ref = v.text;
+}
+);
+width = 325;
+}
+);
+}

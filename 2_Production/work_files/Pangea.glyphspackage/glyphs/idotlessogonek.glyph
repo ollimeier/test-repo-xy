@@ -1,0 +1,377 @@
+{
+case = lower;
+category = Letter;
+color = 6;
+glyphname = idotlessogonek;
+kernLeft = i;
+kernRight = i;
+layers = (
+{
+layerId = "9CA0F1F1-C419-4983-8E88-5CF3F967428B";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-52,0);
+ref = ogonekcomb;
+}
+);
+width = 181;
+},
+{
+layerId = "5500A485-9BC9-4FA7-853B-8075021C5598";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-13,0);
+ref = ogonekcomb;
+}
+);
+width = 243;
+},
+{
+layerId = "B8B1B9F7-57AD-40F6-8824-2C22876E3A5C";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-45,0);
+ref = ogonekcomb;
+}
+);
+width = 182;
+},
+{
+layerId = "2275FDE9-41F5-43D3-856B-3453FC30E713";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-4,0);
+ref = ogonekcomb;
+}
+);
+width = 247;
+},
+{
+background = {
+anchors = (
+{
+name = bottom;
+pos = (68,-168);
+},
+{
+name = ogonek;
+pos = (71,0);
+},
+{
+name = top;
+pos = (71,500);
+}
+);
+shapes = (
+{
+closed = 1;
+nodes = (
+(44,500,l),
+(44,0,l),
+(99,0,l),
+(99,500,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(122,-167,l),
+(122,-114,l),
+(86,-114,ls),
+(73,-114,o),
+(64,-105,o),
+(64,-92,cs),
+(64,-77,o),
+(70,-62,o),
+(80,-41,cs),
+(99,0,l),
+(63,17,l),
+(40,-23,ls),
+(24,-51,o),
+(8,-77,o),
+(8,-102,cs),
+(8,-138,o),
+(31,-167,o),
+(78,-167,cs)
+);
+}
+);
+};
+layerId = "B8C7E0A8-A901-45D3-ACC5-431A2D9A5EA4";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-19,0);
+ref = ogonekcomb;
+}
+);
+width = 143;
+},
+{
+background = {
+anchors = (
+{
+name = bottom;
+pos = (50,-179);
+},
+{
+name = ogonek;
+pos = (69,0);
+},
+{
+name = top;
+pos = (139,519);
+}
+);
+hints = (
+{
+horizontal = 1;
+options = 4;
+origin = (0,1);
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,0);
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (1,0);
+target = (1,1);
+type = TTStem;
+}
+);
+shapes = (
+{
+closed = 1;
+nodes = (
+(76,519,l),
+(-6,0,l),
+(120,0,l),
+(202,519,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(119,-179,l),
+(136,-72,l),
+(114,-72,ls),
+(101,-72,o),
+(95,-67,o),
+(95,-58,cs),
+(95,-51,o),
+(102,-34,o),
+(107,-25,cs),
+(120,0,l),
+(51,20,l),
+(23,-20,ls),
+(4,-48,o),
+(-19,-79,o),
+(-19,-112,cs),
+(-19,-150,o),
+(6,-179,o),
+(59,-179,cs)
+);
+}
+);
+};
+layerId = "17CB6D6D-6D70-4CBA-931D-405A3CCC9370";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-63,0);
+ref = ogonekcomb;
+}
+);
+width = 196;
+},
+{
+background = {
+anchors = (
+{
+name = bottom;
+pos = (118,-179);
+},
+{
+name = ogonek;
+pos = (109,0);
+},
+{
+name = top;
+pos = (97,519);
+}
+);
+hints = (
+{
+horizontal = 1;
+options = 4;
+origin = (0,1);
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,0);
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+place = (-179,107);
+type = TTStem;
+}
+);
+shapes = (
+{
+closed = 1;
+nodes = (
+(34,519,l),
+(34,0,l),
+(160,0,l),
+(160,519,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(187,-179,l),
+(187,-72,l),
+(165,-72,ls),
+(152,-72,o),
+(144,-62,o),
+(144,-53,cs),
+(144,-45,o),
+(147,-36,o),
+(151,-25,cs),
+(160,0,l),
+(88,17,l),
+(65,-22,ls),
+(50,-47,o),
+(37,-77,o),
+(37,-103,cs),
+(37,-142,o),
+(65,-179,o),
+(119,-179,cs)
+);
+}
+);
+};
+layerId = "D61C2D22-5E33-4C18-A495-2EE95D77173B";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-9,0);
+ref = ogonekcomb;
+}
+);
+width = 194;
+},
+{
+background = {
+anchors = (
+{
+name = bottom;
+pos = (5,-168);
+},
+{
+name = ogonek;
+pos = (32,0);
+},
+{
+name = top;
+pos = (112,500);
+}
+);
+hints = (
+{
+horizontal = 1;
+options = 4;
+origin = (0,1);
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,0);
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+place = (12,0);
+type = TTStem;
+}
+);
+shapes = (
+{
+closed = 1;
+nodes = (
+(85,500,l),
+(5,0,l),
+(60,0,l),
+(140,500,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(57,-167,l),
+(66,-114,l),
+(30,-114,ls),
+(18,-114,o),
+(11,-109,o),
+(11,-98,cs),
+(11,-85,o),
+(26,-59,o),
+(36,-41,cs),
+(60,0,l),
+(27,17,l),
+(-1,-22,ls),
+(-20,-48,o),
+(-47,-84,o),
+(-47,-111,cs),
+(-47,-143,o),
+(-21,-167,o),
+(21,-167,cs)
+);
+}
+);
+};
+layerId = "F6D0BAAB-CB79-4251-8204-A370E9309EC9";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-69,0);
+ref = ogonekcomb;
+}
+);
+width = 146;
+}
+);
+script = latin;
+subCategory = Letter;
+}

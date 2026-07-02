@@ -1,0 +1,91 @@
+{
+color = 10;
+export = 0;
+glyphname = acutecomb_dotaccentcomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (97,500);
+}
+);
+layerId = "9CA0F1F1-C419-4983-8E88-5CF3F967428B";
+shapes = (
+{
+pos = (0,-27);
+ref = acutecomb;
+},
+{
+alignment = -1;
+pos = (14,112);
+ref = dotaccentcomb;
+}
+);
+width = 260;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (139,519);
+}
+);
+layerId = "5500A485-9BC9-4FA7-853B-8075021C5598";
+shapes = (
+{
+pos = (0,-15);
+ref = acutecomb;
+},
+{
+alignment = -1;
+pos = (26,166);
+ref = dotaccentcomb;
+}
+);
+width = 355;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (97,500);
+}
+);
+layerId = "CAEAD647-A533-4D72-9ACE-F5DE50C4DBD4";
+shapes = (
+{
+pos = (0,-27);
+ref = acutecomb;
+},
+{
+alignment = -1;
+pos = (14,112);
+ref = dotaccentcomb;
+}
+);
+width = 260;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (139,519);
+}
+);
+layerId = "474EAD97-6F36-4C8E-8A0A-83C4F7DF9055";
+shapes = (
+{
+pos = (0,-15);
+ref = acutecomb;
+},
+{
+alignment = -1;
+pos = (26,166);
+ref = dotaccentcomb;
+}
+);
+width = 355;
+}
+);
+}

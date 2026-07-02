@@ -1,0 +1,44 @@
+{
+color = 7;
+export = 0;
+glyphname = "waw-ar.isol";
+layers = (
+{
+layerId = "9CA0F1F1-C419-4983-8E88-5CF3F967428B";
+shapes = (
+{
+ref = "waw-ar";
+}
+);
+width = 447;
+},
+{
+layerId = "5500A485-9BC9-4FA7-853B-8075021C5598";
+shapes = (
+{
+ref = "waw-ar";
+}
+);
+width = 505;
+},
+{
+layerId = "CAEAD647-A533-4D72-9ACE-F5DE50C4DBD4";
+shapes = (
+{
+ref = "waw-ar";
+}
+);
+width = 447;
+},
+{
+layerId = "474EAD97-6F36-4C8E-8A0A-83C4F7DF9055";
+shapes = (
+{
+ref = "waw-ar";
+}
+);
+width = 504;
+}
+);
+note = uniFEED;
+}

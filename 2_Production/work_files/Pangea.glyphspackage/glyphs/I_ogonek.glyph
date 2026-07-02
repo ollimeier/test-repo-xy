@@ -1,0 +1,626 @@
+{
+color = 6;
+glyphname = Iogonek;
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+background = {
+anchors = (
+{
+name = bottom;
+pos = (103,0);
+},
+{
+name = ogonek;
+pos = (103,0);
+},
+{
+name = top;
+pos = (103,700);
+},
+{
+name = topleft;
+pos = (70,700);
+}
+);
+shapes = (
+{
+closed = 1;
+nodes = (
+(70,700,l),
+(70,0,l),
+(137,0,l),
+(137,700,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(386,-168,l),
+(386,-109,l),
+(347,-109,ls),
+(326,-109,o),
+(314,-98,o),
+(314,-82,cs),
+(314,-69,o),
+(321,-54,o),
+(336,-39,cs),
+(374,0,l),
+(328,15,l),
+(287,-23,ls),
+(261,-47,o),
+(249,-74,o),
+(249,-98,cs),
+(249,-137,o),
+(280,-168,o),
+(343,-168,cs)
+);
+}
+);
+};
+layerId = "9CA0F1F1-C419-4983-8E88-5CF3F967428B";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-38,0);
+ref = ogonekcomb.case;
+}
+);
+width = 207;
+},
+{
+background = {
+anchors = (
+{
+name = bottom;
+pos = (136,0);
+},
+{
+name = ogonek;
+pos = (151,0);
+},
+{
+name = top;
+pos = (135,700);
+},
+{
+name = topleft;
+pos = (57,700);
+}
+);
+hints = (
+{
+horizontal = 1;
+options = 4;
+origin = (0,1);
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,0);
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (1,0);
+target = (1,1);
+type = TTStem;
+}
+);
+shapes = (
+{
+closed = 1;
+nodes = (
+(57,700,l),
+(57,0,l),
+(214,0,l),
+(214,700,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(516,-182,l),
+(516,-61,l),
+(491,-61,ls),
+(476,-61,o),
+(466,-53,o),
+(466,-42,cs),
+(466,-36,o),
+(469,-28,o),
+(476,-21,cs),
+(494,0,l),
+(402,0,l),
+(375,-22,ls),
+(349,-44,o),
+(336,-71,o),
+(336,-97,cs),
+(336,-141,o),
+(373,-182,o),
+(437,-182,cs)
+);
+}
+);
+};
+layerId = "5500A485-9BC9-4FA7-853B-8075021C5598";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (6,0);
+ref = ogonekcomb.case;
+}
+);
+width = 271;
+},
+{
+background = {
+anchors = (
+{
+name = bottom;
+pos = (38,0);
+},
+{
+name = ogonek;
+pos = (38,0);
+},
+{
+name = top;
+pos = (213,700);
+},
+{
+name = topleft;
+pos = (179,700);
+}
+);
+shapes = (
+{
+closed = 1;
+nodes = (
+(179,700,l),
+(4,0,l),
+(72,0,l),
+(247,700,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(59,-168,l),
+(72,-109,l),
+(33,-109,ls),
+(9,-109,o),
+(-1,-100,o),
+(-1,-87,cs),
+(-1,-76,o),
+(7,-61,o),
+(22,-47,cs),
+(72,0,l),
+(29,15,l),
+(-18,-24,ls),
+(-43,-44,o),
+(-70,-76,o),
+(-70,-109,cs),
+(-70,-141,o),
+(-43,-168,o),
+(13,-168,cs)
+);
+}
+);
+};
+layerId = "B8B1B9F7-57AD-40F6-8824-2C22876E3A5C";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-35,0);
+ref = ogonekcomb.case;
+}
+);
+width = 209;
+},
+{
+background = {
+anchors = (
+{
+name = bottom;
+pos = (68,0);
+},
+{
+name = ogonek;
+pos = (84,0);
+},
+{
+name = top;
+pos = (242,700);
+},
+{
+name = topleft;
+pos = (162,700);
+}
+);
+shapes = (
+{
+closed = 1;
+nodes = (
+(162,700,l),
+(-13,0,l),
+(148,0,l),
+(323,700,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(140,-182,l),
+(166,-61,l),
+(138,-61,ls),
+(123,-61,o),
+(116,-55,o),
+(116,-45,cs),
+(116,-38,o),
+(120,-30,o),
+(128,-21,cs),
+(148,0,l),
+(54,0,l),
+(26,-22,ls),
+(0,-43,o),
+(-26,-76,o),
+(-26,-112,cs),
+(-26,-153,o),
+(13,-182,o),
+(78,-182,cs)
+);
+}
+);
+};
+layerId = "2275FDE9-41F5-43D3-856B-3453FC30E713";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (9,0);
+ref = ogonekcomb.case;
+}
+);
+width = 276;
+},
+{
+background = {
+anchors = (
+{
+name = bottom;
+pos = (78,-168);
+},
+{
+name = ogonek;
+pos = (81,0);
+},
+{
+name = top;
+pos = (79,700);
+},
+{
+name = topleft;
+pos = (50,700);
+}
+);
+shapes = (
+{
+closed = 1;
+nodes = (
+(50,700,l),
+(50,0,l),
+(107,0,l),
+(107,700,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(132,-167,l),
+(132,-114,l),
+(96,-114,ls),
+(83,-114,o),
+(74,-105,o),
+(74,-92,cs),
+(74,-77,o),
+(80,-62,o),
+(90,-41,cs),
+(109,0,l),
+(73,17,l),
+(50,-23,ls),
+(34,-51,o),
+(18,-77,o),
+(18,-102,cs),
+(18,-138,o),
+(41,-167,o),
+(88,-167,cs)
+);
+}
+);
+};
+layerId = "B8C7E0A8-A901-45D3-ACC5-431A2D9A5EA4";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-9,0);
+ref = ogonekcomb.case;
+}
+);
+width = 157;
+},
+{
+background = {
+anchors = (
+{
+name = bottom;
+pos = (127,-179);
+},
+{
+name = ogonek;
+pos = (118,0);
+},
+{
+name = top;
+pos = (110,700);
+},
+{
+name = topleft;
+pos = (42,700);
+}
+);
+hints = (
+{
+horizontal = 1;
+options = 4;
+place = (0,0);
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+place = (700,0);
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+place = (-179,107);
+type = TTStem;
+}
+);
+shapes = (
+{
+closed = 1;
+nodes = (
+(42,700,l),
+(42,0,l),
+(177,0,l),
+(177,700,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(196,-179,l),
+(196,-72,l),
+(174,-72,ls),
+(161,-72,o),
+(153,-62,o),
+(153,-53,cs),
+(153,-45,o),
+(156,-36,o),
+(160,-25,cs),
+(169,0,l),
+(97,17,l),
+(74,-22,ls),
+(59,-47,o),
+(46,-77,o),
+(46,-103,cs),
+(46,-142,o),
+(74,-179,o),
+(128,-179,cs)
+);
+}
+);
+};
+layerId = "D61C2D22-5E33-4C18-A495-2EE95D77173B";
+shapes = (
+{
+ref = I;
+},
+{
+ref = ogonekcomb.case;
+}
+);
+width = 219;
+},
+{
+background = {
+anchors = (
+{
+name = bottom;
+pos = (14,-168);
+},
+{
+name = ogonek;
+pos = (41,0);
+},
+{
+name = top;
+pos = (151,700);
+},
+{
+name = topleft;
+pos = (122,700);
+}
+);
+hints = (
+{
+horizontal = 1;
+options = 4;
+place = (-55,0);
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+place = (-55,0);
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+place = (12,0);
+type = TTStem;
+}
+);
+shapes = (
+{
+closed = 1;
+nodes = (
+(122,700,l),
+(12,0,l),
+(69,0,l),
+(179,700,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(66,-167,l),
+(75,-114,l),
+(39,-114,ls),
+(27,-114,o),
+(20,-109,o),
+(20,-98,cs),
+(20,-85,o),
+(35,-59,o),
+(45,-41,cs),
+(69,0,l),
+(36,17,l),
+(8,-22,ls),
+(-11,-48,o),
+(-38,-84,o),
+(-38,-111,cs),
+(-38,-143,o),
+(-12,-167,o),
+(30,-167,cs)
+);
+}
+);
+};
+layerId = "F6D0BAAB-CB79-4251-8204-A370E9309EC9";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-60,0);
+ref = ogonekcomb.case;
+}
+);
+width = 160;
+},
+{
+background = {
+anchors = (
+{
+name = bottom;
+pos = (59,-179);
+},
+{
+name = ogonek;
+pos = (78,0);
+},
+{
+name = top;
+pos = (180,700);
+},
+{
+name = topleft;
+pos = (112,700);
+}
+);
+hints = (
+{
+horizontal = 1;
+options = 4;
+origin = (0,1);
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,0);
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (1,0);
+target = (1,1);
+type = TTStem;
+}
+);
+shapes = (
+{
+closed = 1;
+nodes = (
+(112,700,l),
+(2,0,l),
+(137,0,l),
+(247,700,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(128,-179,l),
+(145,-72,l),
+(123,-72,ls),
+(110,-72,o),
+(104,-67,o),
+(104,-58,cs),
+(104,-51,o),
+(111,-34,o),
+(116,-25,cs),
+(129,0,l),
+(60,20,l),
+(32,-20,ls),
+(13,-48,o),
+(-10,-79,o),
+(-10,-112,cs),
+(-10,-150,o),
+(15,-179,o),
+(68,-179,cs)
+);
+}
+);
+};
+layerId = "17CB6D6D-6D70-4CBA-931D-405A3CCC9370";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-54,0);
+ref = ogonekcomb.case;
+}
+);
+width = 220;
+}
+);
+unicode = 302;
+}

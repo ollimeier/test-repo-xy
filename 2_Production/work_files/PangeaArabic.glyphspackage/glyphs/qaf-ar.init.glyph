@@ -1,0 +1,60 @@
+{
+color = 4;
+glyphname = "qaf-ar.init";
+layers = (
+{
+layerId = "9CA0F1F1-C419-4983-8E88-5CF3F967428B";
+shapes = (
+{
+ref = "fehDotless-ar.init";
+},
+{
+pos = (-80,27);
+ref = "twodotshorizontalabove-ar";
+}
+);
+width = 410;
+},
+{
+layerId = "5500A485-9BC9-4FA7-853B-8075021C5598";
+shapes = (
+{
+ref = "fehDotless-ar.init";
+},
+{
+pos = (-134,90);
+ref = "twodotshorizontalabove-ar";
+}
+);
+width = 427;
+},
+{
+layerId = "CAEAD647-A533-4D72-9ACE-F5DE50C4DBD4";
+shapes = (
+{
+ref = "fehDotless-ar.init";
+},
+{
+pos = (-40,27);
+ref = "twodotshorizontalabove-ar";
+}
+);
+width = 450;
+},
+{
+layerId = "474EAD97-6F36-4C8E-8A0A-83C4F7DF9055";
+shapes = (
+{
+ref = "fehDotless-ar.init";
+},
+{
+pos = (-134,90);
+ref = "twodotshorizontalabove-ar";
+}
+);
+width = 427;
+}
+);
+metricRight = "fehDotless-ar";
+unicode = 65239;
+}

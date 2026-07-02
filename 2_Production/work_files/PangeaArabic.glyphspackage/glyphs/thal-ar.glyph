@@ -1,0 +1,61 @@
+{
+color = 5;
+glyphname = "thal-ar";
+kernLeft = "dal-ar";
+kernRight = "dal-ar";
+layers = (
+{
+layerId = "9CA0F1F1-C419-4983-8E88-5CF3F967428B";
+shapes = (
+{
+ref = "dal-ar";
+},
+{
+pos = (-27,-40);
+ref = "dotabove-ar";
+}
+);
+width = 493;
+},
+{
+layerId = "5500A485-9BC9-4FA7-853B-8075021C5598";
+shapes = (
+{
+ref = "dal-ar";
+},
+{
+pos = (-40,-17);
+ref = "dotabove-ar";
+}
+);
+width = 528;
+},
+{
+layerId = "CAEAD647-A533-4D72-9ACE-F5DE50C4DBD4";
+shapes = (
+{
+ref = "dal-ar";
+},
+{
+pos = (-27,-40);
+ref = "dotabove-ar";
+}
+);
+width = 506;
+},
+{
+layerId = "474EAD97-6F36-4C8E-8A0A-83C4F7DF9055";
+shapes = (
+{
+ref = "dal-ar";
+},
+{
+pos = (-40,-17);
+ref = "dotabove-ar";
+}
+);
+width = 534;
+}
+);
+unicode = (1584,65195);
+}

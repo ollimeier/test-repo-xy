@@ -1,0 +1,197 @@
+{
+color = 10;
+export = 0;
+glyphname = macroncomb.text;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (197,500);
+}
+);
+background = {
+anchors = (
+{
+name = _top;
+pos = (197,500);
+}
+);
+shapes = (
+{
+closed = 1;
+nodes = (
+(50,644,l),
+(345,644,l),
+(345,703,l),
+(50,703,l)
+);
+}
+);
+};
+layerId = "9CA0F1F1-C419-4983-8E88-5CF3F967428B";
+shapes = (
+{
+closed = 1;
+nodes = (
+(345,644,l),
+(345,703,l),
+(50,703,l),
+(50,644,l)
+);
+}
+);
+width = 395;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (222,519);
+}
+);
+background = {
+anchors = (
+{
+name = _top;
+pos = (222,519);
+}
+);
+shapes = (
+{
+closed = 1;
+nodes = (
+(40,611,l),
+(404,611,l),
+(404,723,l),
+(40,723,l)
+);
+}
+);
+};
+hints = (
+{
+horizontal = 1;
+origin = (0,3);
+stem = 2;
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,3);
+target = (0,2);
+type = TTStem;
+}
+);
+layerId = "5500A485-9BC9-4FA7-853B-8075021C5598";
+shapes = (
+{
+closed = 1;
+nodes = (
+(404,611,l),
+(404,723,l),
+(40,723,l),
+(40,611,l)
+);
+}
+);
+width = 444;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (197,500);
+}
+);
+background = {
+anchors = (
+{
+name = _top;
+pos = (197,500);
+}
+);
+shapes = (
+{
+closed = 1;
+nodes = (
+(50,644,l),
+(345,644,l),
+(345,703,l),
+(50,703,l)
+);
+}
+);
+};
+layerId = "CAEAD647-A533-4D72-9ACE-F5DE50C4DBD4";
+shapes = (
+{
+closed = 1;
+nodes = (
+(345,644,l),
+(345,703,l),
+(50,703,l),
+(50,644,l)
+);
+}
+);
+width = 395;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (222,519);
+}
+);
+background = {
+anchors = (
+{
+name = _top;
+pos = (222,519);
+}
+);
+shapes = (
+{
+closed = 1;
+nodes = (
+(40,611,l),
+(404,611,l),
+(404,723,l),
+(40,723,l)
+);
+}
+);
+};
+hints = (
+{
+horizontal = 1;
+origin = (0,3);
+stem = 2;
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,3);
+target = (0,2);
+type = TTStem;
+}
+);
+layerId = "474EAD97-6F36-4C8E-8A0A-83C4F7DF9055";
+shapes = (
+{
+closed = 1;
+nodes = (
+(404,611,l),
+(404,723,l),
+(40,723,l),
+(40,611,l)
+);
+}
+);
+width = 444;
+}
+);
+}

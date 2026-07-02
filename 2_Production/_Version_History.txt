@@ -1,0 +1,51 @@
+2024/02/09: Was ist passiert? (Version 1.02):
+— persische Ziffern, sollen laut DW sowohl auf den persischen als auch auf den arabischen Unicodes liegen.
+— Ligature-Feature-Code-Fehler ‘ثي' korrigiert
+— Kerning bzw. Punkteposition von 'تک' korrigiert
+— es wurde eine neue arabische fünf von Azza gezeichnet, die aber nun doch keine Anwendung findet, weil die persischen Ziffern benutzt werden (siehe Punkt 1)
+
+
+
+2024/05/16: Was ist passiert? (Version 1.03):
+
+إيران
+
+Fehlende Kerning Paare für hinzugefügt:
+Master Bold:
+alefHamzabelow-ar;@MMK_L_yeh-ar.init;70
+Master Text Bold:
+alefHamzabelow-ar;@MMK_L_yeh-ar.init;60
+
+
+
+2025/04/23: Was ist passiert? (Version 1.04):
+- Separate Fonts für Persisch
+
+2025/04/24:
+DW will, dass die persischen Fonts 'Farsi' heißen sollen, nicht 'Persian'.
+
+
+2025/06/18:
+Mit DW Meeting gehabt zu Farsi Fonts. Die Farsi-Desktop-Fonts sollen alle Glyphen enthalten, nicht nur das Subset der Arabic.
+DW ist verantwortlich dafür, das intern zu kommunizieren.
+Wir haben darüber informiert, dass es theoretisch nicht nötig wäre extra Fonts zu produzieren, wenn die verwendeten Schriften Locl-Feature unterstützen würden.
+
+
+2025/08/07: Was ist passiert? (Version 1.05):
+- Auf Wunsch von DW wurden die Versionsnummer erhöht (auf 1.05). Damit wird hoffentlich ein bestehendes Cache-Problem gelöst.
+- Die Versionsnummer der Webfonts wurden ebenfalls aktualisiert, damit es einheitlich bleibt (und nicht zu Verwirrungen führt).
+
+
+Version 1.06 (2025/08/13):
+Versionsnummer erhöht in head, name + CFF table+ name table Unique ID aktualisiert (wegen Cache-Problemen mit Hive)
+
+
+
+Version 1.07:
+Arabische Ziffern sollen nun doch die Arabischen Ziffern sein und nicht die Persischen, wie ursprünglich von DW gewünscht.
+
+
+2025/08/18:
+Das Pangea DW Update ist im Vergleich zu deren letzten Fonts (Version 1.01) deutlich anders, aber fast identisch mit Pangea 3.01. Ich habe die letzten Daten der Pangea 3.01 benutzt, weil DW ja in Zukunft vermutlich auch die Condensed nutzten will. Seit der Pangea 2.5, die wir ursprünglich für DW genutzt hatten, hat Christoph offensichtlich einiges angepasst/geändert/verbessert.
+Texte könnten anders Umbrechen.
+

@@ -1,0 +1,59 @@
+{
+color = 4;
+glyphname = "feh-ar.fina";
+layers = (
+{
+layerId = "9CA0F1F1-C419-4983-8E88-5CF3F967428B";
+shapes = (
+{
+ref = "fehDotless-ar.fina";
+},
+{
+pos = (388,-62);
+ref = "dotabove-ar";
+}
+);
+width = 901;
+},
+{
+layerId = "5500A485-9BC9-4FA7-853B-8075021C5598";
+shapes = (
+{
+ref = "fehDotless-ar.fina";
+},
+{
+pos = (339,-29);
+ref = "dotabove-ar";
+}
+);
+width = 899;
+},
+{
+layerId = "CAEAD647-A533-4D72-9ACE-F5DE50C4DBD4";
+shapes = (
+{
+ref = "fehDotless-ar.fina";
+},
+{
+pos = (378,-62);
+ref = "dotabove-ar";
+}
+);
+width = 931;
+},
+{
+layerId = "474EAD97-6F36-4C8E-8A0A-83C4F7DF9055";
+shapes = (
+{
+ref = "fehDotless-ar.fina";
+},
+{
+pos = (343,-29);
+ref = "dotabove-ar";
+}
+);
+width = 927;
+}
+);
+unicode = 65234;
+}

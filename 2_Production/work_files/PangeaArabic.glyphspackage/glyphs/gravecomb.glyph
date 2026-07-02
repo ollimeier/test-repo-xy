@@ -1,0 +1,200 @@
+{
+color = 10;
+export = 0;
+glyphname = gravecomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (163,500);
+}
+);
+background = {
+anchors = (
+{
+name = _top;
+pos = (163,500);
+}
+);
+shapes = (
+{
+closed = 1;
+nodes = (
+(145,584,l),
+(210,584,l),
+(124,718,l),
+(50,718,l)
+);
+}
+);
+};
+layerId = "9CA0F1F1-C419-4983-8E88-5CF3F967428B";
+shapes = (
+{
+closed = 1;
+nodes = (
+(210,584,l),
+(124,718,l),
+(50,718,l),
+(145,584,l)
+);
+}
+);
+width = 260;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (266,519);
+}
+);
+background = {
+anchors = (
+{
+name = _top;
+pos = (266,519);
+}
+);
+shapes = (
+{
+closed = 1;
+nodes = (
+(212,576,l),
+(355,576,l),
+(265,717,l),
+(100,717,l)
+);
+}
+);
+};
+hints = (
+{
+horizontal = 1;
+origin = (0,3);
+stem = 2;
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,3);
+stem = -1;
+target = (0,2);
+type = TTStem;
+}
+);
+layerId = "5500A485-9BC9-4FA7-853B-8075021C5598";
+shapes = (
+{
+closed = 1;
+nodes = (
+(355,576,l),
+(265,717,l),
+(100,717,l),
+(212,576,l)
+);
+}
+);
+width = 455;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (163,500);
+}
+);
+background = {
+anchors = (
+{
+name = _top;
+pos = (163,500);
+}
+);
+shapes = (
+{
+closed = 1;
+nodes = (
+(145,584,l),
+(210,584,l),
+(124,718,l),
+(50,718,l)
+);
+}
+);
+};
+layerId = "CAEAD647-A533-4D72-9ACE-F5DE50C4DBD4";
+shapes = (
+{
+closed = 1;
+nodes = (
+(210,584,l),
+(124,718,l),
+(50,718,l),
+(145,584,l)
+);
+}
+);
+width = 260;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (266,519);
+}
+);
+background = {
+anchors = (
+{
+name = _top;
+pos = (266,519);
+}
+);
+shapes = (
+{
+closed = 1;
+nodes = (
+(212,576,l),
+(355,576,l),
+(265,717,l),
+(100,717,l)
+);
+}
+);
+};
+hints = (
+{
+horizontal = 1;
+origin = (0,3);
+stem = 2;
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+origin = (0,3);
+stem = -1;
+target = (0,2);
+type = TTStem;
+}
+);
+layerId = "474EAD97-6F36-4C8E-8A0A-83C4F7DF9055";
+shapes = (
+{
+closed = 1;
+nodes = (
+(355,576,l),
+(265,717,l),
+(100,717,l),
+(212,576,l)
+);
+}
+);
+width = 455;
+}
+);
+unicode = 768;
+}

@@ -1,0 +1,247 @@
+{
+color = 4;
+glyphname = "meem-ar.fina";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (365,-49);
+},
+{
+name = top;
+pos = (348,417);
+}
+);
+layerId = "9CA0F1F1-C419-4983-8E88-5CF3F967428B";
+shapes = (
+{
+closed = 1;
+nodes = (
+(639,10,l),
+(639,55,l),
+(623,65,l),
+(561,64,o),
+(523,85,o),
+(517,130,c),
+(489,82,l),
+(506,27,o),
+(553,0,o),
+(623,0,c)
+);
+},
+{
+pos = (12,-13);
+ref = "meem-ar";
+}
+);
+width = 621;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (383,-62);
+},
+{
+name = top;
+pos = (392,450);
+}
+);
+hints = (
+{
+horizontal = 1;
+options = 4;
+place = (414,148);
+stem = 0;
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+place = (-10,147);
+stem = 0;
+type = TTStem;
+},
+{
+horizontal = 1;
+place = (-10,0);
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+place = (0,148);
+stem = 0;
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+other1 = (0,2,0,19);
+place = (266,150);
+type = TTInterpolate;
+},
+{
+horizontal = 1;
+options = 4;
+other1 = (0,6);
+place = (266,150);
+type = TTInterpolate;
+},
+{
+horizontal = 1;
+options = 8;
+place = (109,157);
+stem = 0;
+type = TTStem;
+}
+);
+layerId = "5500A485-9BC9-4FA7-853B-8075021C5598";
+shapes = (
+{
+closed = 1;
+nodes = (
+(654,10,l),
+(654,138,l),
+(638,148,l),
+(595,148,o),
+(557,161,o),
+(558,190,c),
+(504,94,l),
+(525,35,o),
+(575,0,o),
+(638,0,c)
+);
+},
+{
+pos = (13,0);
+ref = "meem-ar";
+}
+);
+width = 636;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (385,-49);
+},
+{
+name = top;
+pos = (368,417);
+}
+);
+layerId = "CAEAD647-A533-4D72-9ACE-F5DE50C4DBD4";
+shapes = (
+{
+closed = 1;
+nodes = (
+(659,10,l),
+(659,55,l),
+(643,65,l),
+(581,64,o),
+(543,85,o),
+(537,130,c),
+(509,82,l),
+(526,27,o),
+(573,0,o),
+(643,0,c)
+);
+},
+{
+pos = (32,-13);
+ref = "meem-ar";
+}
+);
+width = 641;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (393,-62);
+},
+{
+name = top;
+pos = (402,450);
+}
+);
+hints = (
+{
+horizontal = 1;
+options = 4;
+place = (414,148);
+stem = 0;
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+place = (-10,147);
+stem = 0;
+type = TTStem;
+},
+{
+horizontal = 1;
+place = (-10,0);
+type = TTSnap;
+},
+{
+horizontal = 1;
+options = 4;
+place = (0,148);
+stem = 0;
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 4;
+other1 = (0,2,0,19);
+place = (266,150);
+type = TTInterpolate;
+},
+{
+horizontal = 1;
+options = 4;
+other1 = (0,6);
+place = (266,150);
+type = TTInterpolate;
+},
+{
+horizontal = 1;
+options = 8;
+place = (109,157);
+stem = 0;
+type = TTStem;
+}
+);
+layerId = "474EAD97-6F36-4C8E-8A0A-83C4F7DF9055";
+shapes = (
+{
+closed = 1;
+nodes = (
+(664,10,l),
+(664,138,l),
+(648,148,l),
+(605,148,o),
+(567,161,o),
+(568,190,c),
+(514,94,l),
+(535,35,o),
+(585,0,o),
+(648,0,c)
+);
+},
+{
+pos = (23,0);
+ref = "meem-ar";
+}
+);
+width = 646;
+}
+);
+metricLeft = "alef-ar";
+metricRight = "behDotless-ar.medi";
+unicode = 65250;
+}

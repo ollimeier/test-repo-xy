@@ -1,0 +1,64 @@
+{
+color = 4;
+glyphname = "feh_alefMaksura-ar";
+layers = (
+{
+layerId = "9CA0F1F1-C419-4983-8E88-5CF3F967428B";
+shapes = (
+{
+ref = "fehdotless_alefMaksura-ar";
+},
+{
+anchor = top_1;
+pos = (187,129);
+ref = "dotabove-ar";
+}
+);
+width = 696;
+},
+{
+layerId = "5500A485-9BC9-4FA7-853B-8075021C5598";
+shapes = (
+{
+ref = "fehdotless_alefMaksura-ar";
+},
+{
+anchor = top_1;
+pos = (153,145);
+ref = "dotabove-ar";
+}
+);
+width = 715;
+},
+{
+layerId = "CAEAD647-A533-4D72-9ACE-F5DE50C4DBD4";
+shapes = (
+{
+ref = "fehdotless_alefMaksura-ar";
+},
+{
+anchor = top_1;
+pos = (191,129);
+ref = "dotabove-ar";
+}
+);
+width = 710;
+},
+{
+layerId = "474EAD97-6F36-4C8E-8A0A-83C4F7DF9055";
+shapes = (
+{
+ref = "fehdotless_alefMaksura-ar";
+},
+{
+anchor = top_1;
+pos = (154,145);
+ref = "dotabove-ar";
+}
+);
+width = 720;
+}
+);
+metricLeft = "alefMaksura-ar.fina";
+unicode = 64561;
+}

@@ -1,0 +1,23 @@
+{
+color = 9;
+glyphname = lefttorightmark;
+layers = (
+{
+layerId = "9CA0F1F1-C419-4983-8E88-5CF3F967428B";
+width = 0;
+},
+{
+layerId = "5500A485-9BC9-4FA7-853B-8075021C5598";
+width = 0;
+},
+{
+layerId = "CAEAD647-A533-4D72-9ACE-F5DE50C4DBD4";
+width = 0;
+},
+{
+layerId = "474EAD97-6F36-4C8E-8A0A-83C4F7DF9055";
+width = 0;
+}
+);
+unicode = 8206;
+}

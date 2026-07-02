@@ -1,0 +1,163 @@
+{
+color = 10;
+export = 0;
+glyphname = breveinvertedbelowcomb;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (195,0);
+},
+{
+name = bottom;
+pos = (195,-182);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(115,-241,l),
+(119,-186,o),
+(163,-145,o),
+(203,-145,qs),
+(242,-145,o),
+(282,-186,o),
+(286,-242,q),
+(353,-233,l),
+(351,-155,o),
+(277,-81,o),
+(206,-81,qs),
+(132,-81,o),
+(52,-161,o),
+(50,-236,q),
+(50,-236,l)
+);
+}
+);
+};
+layerId = "9CA0F1F1-C419-4983-8E88-5CF3F967428B";
+shapes = (
+{
+angle = 180;
+pos = (390,-213);
+ref = brevebelowcomb;
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 2 values pushed */
+6 100 
+WCVTP[ ]	/* WriteCVTInPixels */
+NPUSHB[ ]	/* 27 values pushed */
+7 6 0 3 1 71 0 0 1 1 0 87 0 0 0 1 91 0 1 0 1 79 37 34 2 12 22 
+CALL[ ]	/* CallFunction */
+PUSHB[ ]	/* 2 values pushed */
+6 0 
+WCVTP[ ]	/* WriteCVTInPixels */";
+};
+width = 403;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (229,0);
+},
+{
+name = bottom;
+pos = (229,-190);
+}
+);
+layerId = "5500A485-9BC9-4FA7-853B-8075021C5598";
+shapes = (
+{
+angle = 180;
+pos = (460,-244);
+ref = brevebelowcomb;
+}
+);
+width = 600;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (195,0);
+},
+{
+name = bottom;
+pos = (195,-182);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(115,-241,l),
+(119,-186,o),
+(163,-145,o),
+(203,-145,qs),
+(242,-145,o),
+(282,-186,o),
+(286,-242,q),
+(353,-233,l),
+(351,-155,o),
+(277,-81,o),
+(206,-81,qs),
+(132,-81,o),
+(52,-161,o),
+(50,-236,q),
+(50,-236,l)
+);
+}
+);
+};
+layerId = "CAEAD647-A533-4D72-9ACE-F5DE50C4DBD4";
+shapes = (
+{
+angle = 180;
+pos = (390,-213);
+ref = brevebelowcomb;
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 2 values pushed */
+6 100 
+WCVTP[ ]	/* WriteCVTInPixels */
+NPUSHB[ ]	/* 27 values pushed */
+7 6 0 3 1 71 0 0 1 1 0 87 0 0 0 1 91 0 1 0 1 79 37 34 2 12 22 
+CALL[ ]	/* CallFunction */
+PUSHB[ ]	/* 2 values pushed */
+6 0 
+WCVTP[ ]	/* WriteCVTInPixels */";
+};
+width = 403;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (229,0);
+},
+{
+name = bottom;
+pos = (229,-190);
+}
+);
+layerId = "474EAD97-6F36-4C8E-8A0A-83C4F7DF9055";
+shapes = (
+{
+angle = 180;
+pos = (460,-244);
+ref = brevebelowcomb;
+}
+);
+width = 600;
+}
+);
+note = uni032F;
+unicode = 815;
+}
